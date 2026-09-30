@@ -234,4 +234,4 @@ Instead of manually finding every changed product, the application identifies th
 
 The end result is a simple workflow:
 
-**Compare → Backup → Update → Email → Upload to Numbot → Print Labels**
+**Compare → Backup → Update → Email → Upload to Nimbot → Print Labels**
