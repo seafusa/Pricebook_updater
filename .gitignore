@@ -3,3 +3,10 @@ build/
 dist/
 __pycache__/
 *.spec
+.env
+build/
+dist/
+__pycache__/
+venv/
+.venv/
+env/
