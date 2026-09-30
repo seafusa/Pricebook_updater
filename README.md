@@ -187,7 +187,7 @@ python -c "import pandas, openpyxl, yagmail, dotenv, tkinter; print('All depende
 Build the application using PyInstaller:
 
 ```powershell
-pyinstaller --onefile --windowed --name "Price Book Updater" price_book_updater.py
+pyinstaller --onefile --windowed --name "Price Book Updater" main.py
 ```
 
 The executable will be created at:
